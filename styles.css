@@ -120,9 +120,9 @@ header .profile-image:hover {
   transform: scale(1.7) rotate(5deg);
 }
 
-#main-image {
-  padding-top: 80px;
-  display: 80%
+.main-image {
+  padding-top: 100px;
+  
   
 }
 
